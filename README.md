@@ -19,8 +19,8 @@ This is a responsive and interactive front-end website created for the **Pakista
 
 ## 🖼️ Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 
